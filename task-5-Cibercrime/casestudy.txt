@@ -1,0 +1,80 @@
+# Case Study: UPI / Online Payment Fraud
+
+## Type of Cybercrime
+**UPI / Online Payment Fraud (a form of Financial Phishing)**
+
+---
+
+## What Is It?
+
+UPI (Unified Payments Interface) fraud is a type of online financial crime where attackers
+trick victims into authorising money transfers or sharing sensitive payment credentials
+(UPI PIN, OTP, or linked bank details) through deception, impersonation, or social
+engineering. Unlike traditional bank fraud, UPI fraud happens in real time — once the
+PIN is entered or the request is approved, the money is gone instantly and is very
+difficult to recover.
+
+---
+
+## How It Typically Happens — Step by Step
+
+1. **Target Selection:** The attacker identifies a potential victim, often someone who has
+   recently posted a "buy/sell" listing on platforms like OLX, Quikr, or a college
+   WhatsApp group, or someone who has publicly asked for help with a payment issue.
+
+2. **First Contact:** The fraudster contacts the victim posing as a genuine buyer, seller,
+   bank official, or even a fellow student. They communicate via phone call, WhatsApp,
+   or SMS.
+
+3. **Creating Urgency / Trust:** The attacker creates a believable story — e.g., "I am
+   transferring ₹5,000 for the item. Please accept the request on your UPI app." They
+   may also share a fake screenshot of a "successful transfer" to build false confidence.
+
+4. **The Trick — Collect vs. Send:** The victim receives a **payment request** (not a
+   credit) on their UPI app (Google Pay, PhonePe, Paytm). The attacker tells them,
+   "Just enter your PIN to receive the money." The victim, believing they are accepting
+   money, actually *approves a debit* from their own account.
+
+5. **Money Lost Instantly:** The victim's bank account is debited within seconds. The
+   attacker disconnects immediately after the transaction goes through.
+
+6. **Repeat or Escalate:** In some cases, the attacker calls back pretending to be a
+   "bank helpline" offering a refund — and extracts even more money in the same manner.
+
+---
+
+## Who Is Usually Targeted?
+
+- **First-year college students** unfamiliar with how UPI payment requests work
+- People selling items on second-hand marketplaces (OLX, Facebook Marketplace)
+- Job seekers who receive fake "registration fee" or "security deposit" requests
+- Anyone who has publicly shared their phone number linked to a UPI ID
+
+---
+
+## Consequences
+
+- **Financial:** Immediate and often irreversible loss of money (cases range from ₹500
+  to several lakhs)
+- **Psychological:** Shame, stress, and anxiety — many victims hesitate to report out
+  of embarrassment
+- **Legal complications:** Victims may not know how to file a complaint or recover funds
+- **Data exposure:** If the attacker collected personal details, the victim may face
+  further identity theft attempts
+
+---
+
+## Real-World Context
+
+Cases of UPI fraud targeting college students have been widely reported across India,
+particularly involving fake hostel deposit requests, fake scholarship transfers, and
+second-hand laptop/phone scams on student WhatsApp groups. The National Cyber Crime
+portal (cybercrime.gov.in) and Helpline **1930** have recorded thousands of such
+complaints annually.
+
+> *Note: This case study is based on a realistic and commonly documented pattern of
+> UPI fraud in India. No personally identifiable real incident has been used.*
+
+---
+
+*Source reference: National Cyber Crime Reporting Portal — cybercrime.gov.in*
